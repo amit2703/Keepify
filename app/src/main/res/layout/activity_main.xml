@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/img_background"
+    android:background="@color/colorPrimaryDark"
     tools:context=".MainActivity">
 
 
@@ -22,7 +22,7 @@
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
             android:text="Add"
-            android:background="@drawable/add_button_background" />
+            android:background="@color/colorAccent" />
 
         <View
             android:layout_width="match_parent"
